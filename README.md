@@ -56,6 +56,8 @@ print(x)
 ## Output:
 ![Screenshot 2023-12-21 121100](https://github.com/23004205/LU-Decomposition/assets/138971114/9f28afc3-ff1b-49cf-8026-f62e527c402e)
 
+
+
 ![Screenshot 2023-12-21 121153](https://github.com/23004205/LU-Decomposition/assets/138971114/55edf664-7c8b-400f-a3e6-807ef8e5da45)
 
 
